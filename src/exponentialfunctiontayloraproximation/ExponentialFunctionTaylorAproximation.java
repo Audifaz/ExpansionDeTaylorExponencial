@@ -28,7 +28,7 @@ public class ExponentialFunctionTaylorAproximation {
         Scanner stream;
         stream=new Scanner(System.in);
         //
-        System.out.print("Ingrese la accuracy de la funcion exponencial: ");
+        System.out.print("Ingrese la presición de la funcion exponencial: ");
         aprox=stream.nextInt();
         //
         exp=0;
